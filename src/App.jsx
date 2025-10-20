@@ -1,6 +1,6 @@
-import React,{ useState } from 'react';
 
-import Counter from './Components/counter.jsx'
+
+import Counter from './Components/Counter.jsx'
 import './App.css'
 
 function App() {
